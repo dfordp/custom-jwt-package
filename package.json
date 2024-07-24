@@ -30,7 +30,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib",
+  "name": "@dfordp1101/custom-jwt-lib",
   "author": "Dilpreet",
   "module": "dist/mylib.esm.js",
   "size-limit": [
